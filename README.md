@@ -1,5 +1,6 @@
-# Simple CRUD demo app with React (Employee accounting)
-
+# Employee accounting app
+ 
+Simple CRUD app with React (Employee accounting).
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
